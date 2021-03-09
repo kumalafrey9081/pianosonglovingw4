@@ -1,0 +1,4 @@
+baseURL = "https://lovemusic-pianorere.vercel.app"
+languageCode = "en-us"
+title = "Piano Music Love Songs"
+theme = "hugo-theme-minos"
